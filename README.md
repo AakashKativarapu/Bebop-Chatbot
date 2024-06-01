@@ -1,2 +1,2 @@
 To start the GUI application run "gui.py" 
-This project is made with basic python packages for college expo 
+This project is made with basic python packages 
